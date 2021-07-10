@@ -1,0 +1,54 @@
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\bin\Debug\knlowledge.exe.config
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\bin\Debug\knlowledge.exe
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\bin\Debug\knlowledge.pdb
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.dashboard.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.Form1.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.Properties.Resources.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.csproj.GenerateResource.Cache
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.exe
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.pdb
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.student.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.csprojResolveAssemblyReference.cache
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.report.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.teacher.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.employee.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.certificate.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.course.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.exam.resources
+C:\Users\jonpr\Desktop\knowledge\new\knowledge\knlowledge\knlowledge\obj\Debug\knlowledge.job_position.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\bin\Debug\knlowledge.exe.config
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\bin\Debug\knlowledge.exe
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\bin\Debug\knlowledge.pdb
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.csprojResolveAssemblyReference.cache
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.certificate.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.course.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.dashboard.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.employee.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.exam.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.Form1.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.job_position.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.Properties.Resources.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.report.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.student.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.teacher.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.csproj.GenerateResource.Cache
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.exe
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\knlowledge\knlowledge\obj\Debug\knlowledge.pdb
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\bin\Debug\knlowledge.exe.config
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\bin\Debug\knlowledge.exe
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\bin\Debug\knlowledge.pdb
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.csprojResolveAssemblyReference.cache
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.certificate.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.course.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.dashboard.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.employee.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.exam.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.Form1.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.job_position.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.Properties.Resources.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.report.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.student.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.teacher.resources
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.csproj.GenerateResource.Cache
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.exe
+C:\Users\jonpr\Desktop\my study p1\database\ASIGMINT\finnal ass\(Alaa Eldin user interface knlowledge\knlowledge\obj\Debug\knlowledge.pdb
